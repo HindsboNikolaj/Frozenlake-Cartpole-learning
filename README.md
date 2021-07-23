@@ -6,7 +6,7 @@ python3 -m venv /path/to/new/virtual/environment
  
 source /path/to/new/virtual/environment/bin/activate
 
-~~~ in virtual env ~~~ 
+in virtual env:
 
 pip install --upgrade pip 
  
