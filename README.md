@@ -1,4 +1,4 @@
-# Cartpole-DQN
+# Frozenlake + Cartpole-DQN
 Reinforcement Learning for Cartpole V-1
 To run in linux terminal:
 
